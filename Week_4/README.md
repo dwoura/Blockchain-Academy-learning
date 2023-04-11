@@ -70,27 +70,3 @@ Hardhat中的任务是异步JavaScript函数，它可以访问[Hardhat运行时�
     addressList[network.name] = {}//防止出现undefined
   };
 ```
-
-#### 本地运行成功示例
-
-![](C:\Users\Dwoura\AppData\Roaming\marktext\images\2023-04-09-15-04-27-image.png)
-
-![](C:\Users\Dwoura\AppData\Roaming\marktext\images\2023-04-09-15-04-34-image.png)
-
-#### 币安测试网运行成功示例
-
-执行ProxyAdmin：
-
-![](C:\Users\Dwoura\AppData\Roaming\marktext\images\2023-04-11-12-50-45-image.png)
-
-执行MyContract：
-
-![](C:\Users\Dwoura\AppData\Roaming\marktext\images\2023-04-11-12-49-35-image.png)
-
-执行UpgradeContract：
-
-![](C:\Users\Dwoura\AppData\Roaming\marktext\images\2023-04-11-12-48-59-image.png)
-
-获取一下当前版本号：
-
-![](C:\Users\Dwoura\AppData\Roaming\marktext\images\2023-04-11-12-48-29-image.png)
