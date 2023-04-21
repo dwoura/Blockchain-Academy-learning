@@ -26,6 +26,7 @@
 
 ```
 npm install --save-dev hardhat
+npx hardhat
 ```
 
 选择 Create an empty hardhat.config.js
